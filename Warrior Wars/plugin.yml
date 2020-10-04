@@ -1,0 +1,6 @@
+name: WarriorWars
+main: com.warriorWars.puti.Main
+version: 1
+author: [SrPuti_]
+commands:
+  teste:
